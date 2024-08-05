@@ -60,7 +60,7 @@ cat.sound()class Animal:
     def sound(self):
         print("Some generic sound")'''
 
-#method overloading#
+method overloading#
 '''class Calculator:
     def add(self, a, b):
         return a + b
